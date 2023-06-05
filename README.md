@@ -1,7 +1,7 @@
 <div>
   <h1>Hi, I'm Lucas Vizcaino👋</h1>
 </div>
-I'm a backend programmer 
+Hello, I'm Lucas Vizcaíno, a versatile programmer with a strong background in JavaScript and Python. I specialize in web development, focusing on creating polished and user-friendly interfaces. With my intermediate skills and a passion for continuous learning, I am eager to contribute to challenging projects and collaborate with talented teams. Let's build something great together!
 <div>
   <h1>My skills:</h1>
 </div>
