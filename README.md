@@ -10,7 +10,7 @@
 <h2>Skills</h2>
 <ul>
   <li>
-    Java 17: Proficient in modern Java development practices and features.
+    Java 21: Proficient in modern Java development practices and features.
   </li>
   <li>
     Spring Boot: Expertise in building production-ready applications with Spring Boot.
